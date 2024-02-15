@@ -1,10 +1,10 @@
 # [level 1] 덧칠하기 - 161989 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161989) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161989?language=cpp) 
 
 ### 성능 요약
 
-메모리: 32.9 MB, 시간: 4540.90 ms
+메모리: 5.02 MB, 시간: 0.17 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 2월 4일 9:31:0
+2024년 2월 4일 9:34:40
 
 ### 문제 설명
 
