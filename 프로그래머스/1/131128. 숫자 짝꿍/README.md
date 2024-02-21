@@ -46,9 +46,10 @@
 <th>result</th>
 </tr>
 </thead>
+<tbody>
 <tr>
 <td>"100"</td>
-<td"2345"</td>
+<td>"2345"</td>
 <td>"-1"</td>
 </tr>
 <tr>
@@ -71,7 +72,7 @@
 <td>"1255"</td>
 <td>"552"</td>
 </tr>
-</tbod<code>Y</code>>
+</tbody>
       </table>
 <hr>
 
