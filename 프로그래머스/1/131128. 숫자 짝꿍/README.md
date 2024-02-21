@@ -41,12 +41,12 @@
 <h5>입출력 예</h5>
 <table class="table">
         <thead><tr>
-<th><code>X</code></th>
-<th><code>Y</code></th>
+<th>X</th>
+<th>Y</th>
 <th>result</th>
 </tr>
 </thead>
-        <tbod<code>Y</code>><tr>
+<tr>
 <td>"100"</td>
 <td"2345"</td>
 <td>"-1"</td>
