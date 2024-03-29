@@ -57,8 +57,7 @@ public class Solution {
         {
             if (i > 0)
             {
-                b = false;
-                break;
+                return false;
             }
             else { b = true; }
         }
