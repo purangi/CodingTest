@@ -1,10 +1,10 @@
 # [level 2] 2개 이하로 다른 비트 - 77885 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77885?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77885?language=csharp) 
 
 ### 성능 요약
 
-메모리: 27.9 MB, 시간: 32.15 ms
+메모리: 43.4 MB, 시간: 1.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 19일 10:00:11
+2024년 04월 19일 10:01:23
 
 ### 문제 설명
 
