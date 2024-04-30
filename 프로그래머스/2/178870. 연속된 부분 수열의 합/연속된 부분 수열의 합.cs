@@ -22,7 +22,6 @@ public class Solution {
             }
             else if(curSum == k)
             {
-                // 하나의 쌍을 만들었다.
                 int curLength = end - start + 1;
                 if(curLength < minLength)
                 {
@@ -34,7 +33,7 @@ public class Solution {
                 curSum -= sequence[start];
                 ++start;
             }
-            else // curSum > k
+            else
             {
                 curSum -= sequence[start];
                 ++start;
